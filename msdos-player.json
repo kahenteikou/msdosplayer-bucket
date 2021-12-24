@@ -3,7 +3,7 @@
     "license": "GNU GENERAL PUBLIC LICENSE Version 2, June 1991",
     "architecture": {
         "64bit": {
-            "url": "http://takeda-toshiya.my.coocan.jp/msdos/msdos.7z",
+            "url": "http://takeda-toshiya.my.coocan.jp/msdos/msdos.7z"
         }
     },
     "bin": [
